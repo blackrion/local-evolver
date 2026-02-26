@@ -1,0 +1,16 @@
+{
+  "name": "local-evolver",
+  "version": "0.1.0",
+  "description": "本地进化引擎 - 纯本地、无外部依赖的 AI Agent 自进化系统",
+  "main": "index.js",
+  "keywords": ["openclaw", "evolution", "local", "self-improvement"],
+  "author": "neir",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js run",
+    "review": "node index.js review",
+    "solidify": "node index.js solidify",
+    "status": "node index.js status"
+  },
+  "dependencies": {}
+}
